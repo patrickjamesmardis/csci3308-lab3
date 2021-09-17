@@ -1,5 +1,4 @@
-Project Team Members:
-Patrick Mardis, Colin
+Project Team Members: Patrick, Colin, Tommy, Rob
 
 ## This is a readme :)
 Here are some more!
