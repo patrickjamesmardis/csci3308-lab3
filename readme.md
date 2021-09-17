@@ -1,2 +1,4 @@
 ## This is a readme :)
-These are some edits.
+These are some edits
+Rob Sollitto
+
