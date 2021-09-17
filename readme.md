@@ -1,1 +1,2 @@
-## This is a readme :)
+Project Team Members:
+Patrick Mardis
