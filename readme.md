@@ -1,3 +1,4 @@
+Project Team Members: Patrick, Colin, Tommy, Rob
+
 ## This is a readme :)
-These are some edits.
-I am editing the README file - Tommy Hoang
+Here are some more! These are some edits.
