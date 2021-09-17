@@ -1,9 +1,6 @@
-Project Team Members: colin
+Project Team Members:
+Patrick Mardis, Colin
+
 ## This is a readme :)
-<<<<<<< HEAD
 Here are some more!
 These are some edits.
-=======
-Here are some more!
-These are some edits.
->>>>>>> main
