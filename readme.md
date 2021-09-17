@@ -1,8 +1,5 @@
 ## This is a readme :)
 <<<<<<< HEAD
-Here are some more!
-These are some edits.
+Rob Sollitto
 =======
-Here are some more!
-These are some edits.
 >>>>>>> main
