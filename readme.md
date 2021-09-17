@@ -1,5 +1,5 @@
 Project Team Members:
-Patrick Mardis
+Patrick Mardis, Colin
 
 ## This is a readme :)
 Here are some more!
